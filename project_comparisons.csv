@@ -1,5 +1,0 @@
-name,address,rating,amenities,sentiment
-DLF Phase 5,"DLF Phase 5, Gurgaon",4.5,['amenities' 'apartments' 'good' 'great' 'location' 'security' 'spacious'],0.75
-Sohna Road Residency,"Sohna Road, Gurgaon",4.0,['connected' 'facilities' 'good' 'main' 'maintenance' 'roads'],0.4333333333333333
-Golf Course Extension Apartments,"Golf Course Extension, Gurgaon",3.8,"['affordable' 'amenities' 'better' 'decent' 'housing' 'maintenance'
- 'needs']",0.3333333333333333
